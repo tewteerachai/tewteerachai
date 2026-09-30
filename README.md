@@ -1,49 +1,49 @@
 # Hi there, I'm Teerapat Chaiudom 👋
-### Civil Engineer | Structural Analysis & Computational Design
+### Civil Engineer | Structural Analysis & BIM
 
-Enthusiastic Civil Engineering graduate from King Mongkut's University of Technology Thonburi (KMUTT). Passionate about high-rise structural modeling, seismic & wind dynamic analysis, and bridging civil engineering with programming to optimize design workflows.
+Civil Engineering graduate from King Mongkut's University of Technology Thonburi (KMUTT). Passionate about reinforced concrete design, high-rise structural dynamic analysis (ETABS), BIM workflows, and site execution.
 
 ---
 
-### 🔨 Tech Stack & Engineering Tools
+### 🔨 Engineering Software & Technical Skills
 
-**Structural & BIM Software**
-![ETABS](https://img.shields.io/badge/ETABS-00599C?style=for-the-badge&logo=autodesk&logoColor=white)
+**Structural Design & BIM**
+![ETABS](https://img.shields.io/badge/ETABS_22-00599C?style=for-the-badge&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51937?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Revit](https://img.shields.io/badge/Revit-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
-![Tekla](https://img.shields.io/badge/Tekla_Structures-003366?style=for-the-badge&logo=trimble&logoColor=white)
-![Trimble Connect](https://img.shields.io/badge/Trimble_Connect-005F9E?style=for-the-badge&logo=trimble&logoColor=white)
+![Tekla](https://img.shields.io/badge/Tekla_Structures-003366?style=for-the-badge&logoColor=white)
+![Trimble Connect](https://img.shields.io/badge/Trimble_Connect-005F9E?style=for-the-badge&logoColor=white)
 
-**Programming & Data Analysis**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Engineering Management & Estimation**
+![Excel](https://img.shields.io/badge/Microsoft_Excel_(BOQ)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
-### 📌 Featured Engineering Projects
+### 📌 Featured Engineering Projects & Experience
 
-#### 🏢 High-Rise Seismic & Torsional Response Optimization
-* **Description:** 3D structural modeling and dynamic analysis of a 32-story (140.3 m) reinforced concrete high-rise building under Bangkok soft ground seismic hazard (DPT 1301/1302-61) and wind loads (DPT 1311-50).
-* **Key Tasks:**
-  * Evaluated 4 shear wall configurations using **Response Spectrum Analysis (RSA)** and **Modal Response Spectrum Analysis (MRSA)**.
-  * Controlled torsional eccentricity ($CM$ vs. $CR$) and checked member capacities ($Pu, Mu, Vu, T$).
-  * Conducted cost estimation (~1.2B THB) and net usable area optimization.
-* **Tech Used:** `ETABS 22`, `AutoCAD`, `MS Excel`
+#### 🏢 High-Rise Special RC Shear Wall Design & Torsional Optimization
+* **Type:** Senior Engineering Project | KMUTT
+* **Description:** 3D structural modeling and dynamic response analysis of a 32-story (140.3 m) reinforced concrete high-rise building under Bangkok soft ground seismic criteria (DPT 1301/1302-61) and dynamic wind loads (DPT 1311-50).
+* **Key Highlights:**
+  * Modeled and analyzed 4 structural configurations in **ETABS 22** using **Response Spectrum Analysis (RSA)** and **Modal Response Spectrum Analysis (MRSA)**.
+  * Controlled torsional eccentricity ($CM$ vs. $CR$) and verified member capacity ($Pu, Mu, Vu, T$) for columns and shear wall piers.
+  * Optimized structural efficiency, resulting in a balanced layout that maintains dynamic stability, construction cost (~1.2B THB), and net usable floor area.
 
-#### 📊 Structural Data Visualization & Automation
-* **Description:** Python scripts for processing structural output data, plotting response spectrum curves, and developing 3D web visualizations.
-* **Tech Used:** `Python`, `Matplotlib`, `Three.js`
-
----
-
-### 🌐 Certifications & Languages
-* **Professional English:** TETET Score 4.0 (Test of English for Thai Engineers and Technologists)
-* **Licensing:** Eligible for Associate Civil Engineer Examination (Council of Engineers Thailand)
+#### 🏗️ Civil Engineering Internship — Global Rubber Industrial Co., Ltd.
+* **Role:** Civil Engineering Intern
+* **Scope of Work:**
+  * Assisted senior engineers in site inspection, structural checks, and safety compliance.
+  * Prepared, reviewed, and modified 2D architectural & structural shop drawings using **AutoCAD**.
+  * Performed material quantity take-offs (BOQ) and structural rebar calculations using **MS Excel**.
 
 ---
 
-### 📫 Connect with Me
-* **Email:** [tewteerachai@gmail.com](mailto:tewteerachai@gmail.com)
+### 🌐 Professional Qualifications & Languages
+* **Language Proficiency:** English (Professional Working Proficiency | TETET Score: 4.0)
+* **Licensing:** Associate Civil Engineer (Council of Engineers Thailand - Eligible for Examination)
+
+---
+
+### 📫 Contact
+* **Email:** tewteerachai@gmail.com
 * **Location:** Bangkok, Thailand
